@@ -1,1 +1,2 @@
+RewriteEngine On
 Redirect 301 / https://redless.net
